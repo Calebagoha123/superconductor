@@ -9,7 +9,7 @@ I utilized a range of trees based models to find the best performer at predictin
 | Model Name | RMSE | Correlation | Bias |
 |----------|----------|----------|----------|
 | Random Forest | 9.54 | 0.96 | 0.96 |
-| XGBoost | 9.85 | 0.36 | 0.32 |
+| XGBoost | 9.85 | 0.96 | 0.32 |
 
 The code implementation with all the models can be found in `predictions.ipynb`
 
