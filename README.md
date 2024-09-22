@@ -12,7 +12,7 @@ I utilized a range of trees based models to find the best performer at predictin
 | XGBoost | 9.85 | 0.96 | 0.32 |
 
 Some graphs
-![Feature Importance for Random Forest](featuren_importance.png)
+![Feature Importance for Random Forest](feature_importance.png)
 
 ![Model Fit for XG Boost](xgboost_performance.png)
 
