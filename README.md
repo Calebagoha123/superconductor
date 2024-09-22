@@ -11,6 +11,11 @@ I utilized a range of trees based models to find the best performer at predictin
 | Random Forest | 9.54 | 0.96 | 0.96 |
 | XGBoost | 9.85 | 0.96 | 0.32 |
 
+Some graphs
+![Feature Importance for Random Forest](featuren_importance.png)
+
+![Model Fit for XG Boost](xgboost_performance.png)
+
 The code implementation with all the models can be found in `predictions.ipynb`
 
 The dataset was found on the UCI machine learning repository.
